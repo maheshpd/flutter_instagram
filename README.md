@@ -1,16 +1,6 @@
 # flutter_instagram
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/26844387/164944634-4cc76857-f745-4885-888d-6d1e62368d4c.png" width="200" height="400" />  
+<img src="https://user-images.githubusercontent.com/26844387/164944641-48377b47-1224-48b8-884a-c7bdb97fa437.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/26844387/164944643-15886a7c-be9b-4aed-8f9f-a68f90eb3a76.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/26844387/164944645-d7dfa34d-d275-4855-bf23-aac2651c731b.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/26844387/164944641-48377b47-1224-48b8-884a-c7bdb97fa437.png" width="200" height="400" />
